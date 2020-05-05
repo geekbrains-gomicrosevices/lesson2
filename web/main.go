@@ -2,8 +2,8 @@ package main
 
 import (
 	"fmt"
-	"github.com/azomio/courses/lesson2/pkg/render"
-	"github.com/azomio/courses/lesson2/pkg/requester"
+	"github.com/geekbrains-gomicrosevices/lesson2/pkg/render"
+	"github.com/geekbrains-gomicrosevices/lesson2/pkg/requester"
 	"github.com/gorilla/mux"
 	"log"
 	"net/http"
